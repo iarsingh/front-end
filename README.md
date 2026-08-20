@@ -1,5 +1,9 @@
 # RGPV Login Interface
 
+<!-- repository-summary -->
+A React and Tailwind CSS recreation of the RGPV student portal login interface.
+<!-- /repository-summary -->
+
 A React recreation of the Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV) student portal login screen — the university login page with an instructions panel, credentials form, and a captcha widget.
 
 ## Tech Stack
