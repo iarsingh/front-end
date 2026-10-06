@@ -96,3 +96,11 @@ Outputs an optimized, minified build to the `build/` folder.
 ## Notes
 
 This is a front-end-only UI clone for practice/demo purposes — the "Sign In" and "Forgot Password" actions currently log to the console and show a placeholder alert rather than calling a real backend.
+
+## Documentation checks
+
+Project architecture, interview guides, and local source links are checked automatically on pushes and pull requests. Run the same check locally:
+
+```bash
+python3 .github/scripts/validate_project_docs.py
+```
