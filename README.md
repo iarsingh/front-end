@@ -1,5 +1,12 @@
 # RGPV Login Interface
 
+## Overview
+
+A React recreation of the RGPV (Rajiv Gandhi Proudyogiki Vishwavidyalaya) student portal login screen, built as front-end practice. A single login component holds an instructions panel, a credentials form and a captcha widget, styled with Tailwind CSS and using icons from lucide-react. The Sign In and Forgot Password actions only log to the console and show a placeholder alert.
+
+- **Built with:** React, Create React App, Tailwind CSS, lucide-react, Testing Library
+- **Scope:** Front-end-only UI clone for practice; there is no backend behind the form.
+
 <!-- project-guide:start -->
 ## Project guide
 
